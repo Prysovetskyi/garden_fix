@@ -1,0 +1,22 @@
+.nav{
+    height: 70px;
+    background-color:deeppink ;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.nav_btn a{
+    text-decoration: none;
+    margin-right: 31px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 59px;
+}
